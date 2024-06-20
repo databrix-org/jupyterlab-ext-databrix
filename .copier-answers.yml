@@ -9,6 +9,6 @@ kind: frontend
 labextension_name: jupyterlab_apod
 project_short_description: A JupyterLab extension for showing apod.
 python_name: jupyterlab_apod
-repository: https://github.com/guyq1997/jupyterlab-ext-my
+repository: https://github.com/databrix-org/jupyterlab-ext-databrix
 test: true
 

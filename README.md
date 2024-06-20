@@ -1,7 +1,7 @@
 # jupyterlab_apod
 
-[![Github Actions Status](https://github.com/guyq1997/jupyterlab-ext-my/workflows/Build/badge.svg)](https://github.com/guyq1997/jupyterlab-ext-my/actions/workflows/build.yml)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guyq1997/jupyterlab-ext-my/main?urlpath=lab)
+[![Github Actions Status](https://github.com/databrix-org/jupyterlab-ext-databrix/workflows/Build/badge.svg)](https://github.com/databrix-org/jupyterlab-ext-databrix/actions/workflows/build.yml)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/databrix-org/jupyterlab-ext-databrix/main?urlpath=lab)
 
 
 A JupyterLab extension for showing apod.
