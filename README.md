@@ -4,7 +4,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/databrix-org/jupyterlab-ext-databrix/main?urlpath=lab)
 
 
-A JupyterLab extension for showing apod.
+A JupyterLab extension for building a homepage for databrix project in jupyterlab.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ A JupyterLab extension for showing apod.
 To install the extension, execute:
 
 ```bash
-pip install jupyterlab_apod
+pip install jupyterlab_databrix_homepage
 ```
 
 ## Uninstall
@@ -23,7 +23,7 @@ pip install jupyterlab_apod
 To remove the extension, execute:
 
 ```bash
-pip uninstall jupyterlab_apod
+pip uninstall jupyterlab_databrix_homepage
 ```
 
 ## Contributing
