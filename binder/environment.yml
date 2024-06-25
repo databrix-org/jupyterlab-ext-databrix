@@ -1,10 +1,10 @@
-# a mybinder.org-ready environment for demoing jupyterlab_apod
+# a mybinder.org-ready environment for demoing jupyterlab_databrix_homepage
 # this environment may also be used locally on Linux/MacOS/Windows, e.g.
 #
 #   conda env update --file binder/environment.yml
-#   conda activate jupyterlab-apod-demo
+#   conda activate jupyterlab-databrix-homepage-demo
 #
-name: jupyterlab-apod-demo
+name: jupyterlab-databrix-homepage-demo
 
 channels:
   - conda-forge

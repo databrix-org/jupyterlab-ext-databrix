@@ -1,10 +1,10 @@
-# jupyterlab_apod
+# jupyterlab_databrix_homepage
 
 [![Github Actions Status](https://github.com/databrix-org/jupyterlab-ext-databrix/workflows/Build/badge.svg)](https://github.com/databrix-org/jupyterlab-ext-databrix/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/databrix-org/jupyterlab-ext-databrix/main?urlpath=lab)
 
 
-A JupyterLab extension for showing apod.
+A JupyterLab extension for building a homepage for project databrix.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ A JupyterLab extension for showing apod.
 To install the extension, execute:
 
 ```bash
-pip install jupyterlab_apod
+pip install jupyterlab_databrix_homepage
 ```
 
 ## Uninstall
@@ -23,7 +23,7 @@ pip install jupyterlab_apod
 To remove the extension, execute:
 
 ```bash
-pip uninstall jupyterlab_apod
+pip uninstall jupyterlab_databrix_homepage
 ```
 
 ## Contributing
@@ -38,7 +38,7 @@ The `jlpm` command is JupyterLab's pinned version of
 
 ```bash
 # Clone the repo to your local environment
-# Change directory to the jupyterlab_apod directory
+# Change directory to the jupyterlab_databrix_homepage directory
 # Install package in development mode
 pip install -e "."
 # Link your development version of the extension with JupyterLab
@@ -67,12 +67,12 @@ jupyter lab build --minimize=False
 ### Development uninstall
 
 ```bash
-pip uninstall jupyterlab_apod
+pip uninstall jupyterlab_databrix_homepage
 ```
 
 In development mode, you will also need to remove the symlink created by `jupyter labextension develop`
 command. To find its location, you can run `jupyter labextension list` to figure out where the `labextensions`
-folder is located. Then you can remove the symlink named `jupyterlab_apod` within that folder.
+folder is located. Then you can remove the symlink named `jupyterlab_databrix_homepage` within that folder.
 
 ### Testing the extension
 
