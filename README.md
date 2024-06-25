@@ -1,4 +1,4 @@
-# jupyterlab_apod
+# jupyterlab_databrix_homepage
 
 [![Github Actions Status](https://github.com/databrix-org/jupyterlab-ext-databrix/workflows/Build/badge.svg)](https://github.com/databrix-org/jupyterlab-ext-databrix/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/databrix-org/jupyterlab-ext-databrix/main?urlpath=lab)
