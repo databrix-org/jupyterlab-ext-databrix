@@ -4,7 +4,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/databrix-org/jupyterlab-ext-databrix/main?urlpath=lab)
 
 
+<<<<<<< HEAD
 A JupyterLab extension for building a homepage for project databrix.
+=======
+A JupyterLab extension for building a homepage for databrix project in jupyterlab.
+>>>>>>> origin/main
 
 ## Requirements
 
