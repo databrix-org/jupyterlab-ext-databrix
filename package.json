@@ -1,7 +1,7 @@
 {
-    "name": "jupyterlab_apod",
+    "name": "jupyterlab_databrix_homepage",
     "version": "0.1.0",
-    "description": "A JupyterLab extension for showing apod.",
+    "description": "A JupyterLab extension for building a homepage for project databrix.",
     "keywords": [
         "jupyter",
         "jupyterlab",
@@ -38,7 +38,7 @@
         "clean": "jlpm clean:lib",
         "clean:lib": "rimraf lib tsconfig.tsbuildinfo",
         "clean:lintcache": "rimraf .eslintcache .stylelintcache",
-        "clean:labextension": "rimraf jupyterlab_apod/labextension jupyterlab_apod/_version.py",
+        "clean:labextension": "rimraf jupyterlab_databrix_homepage/labextension jupyterlab_databrix_homepage/_version.py",
         "clean:all": "jlpm clean:lib && jlpm clean:labextension && jlpm clean:lintcache",
         "eslint": "jlpm eslint:check --fix",
         "eslint:check": "eslint . --cache --ext .ts,.tsx",
@@ -58,7 +58,6 @@
     "dependencies": {
         "@jupyterlab/application": "^4.2.2",
         "@jupyterlab/apputils": "^4.3.2",
-        "@jupyterlab/launcher": "^4.2.2",
         "@lumino/widgets": "^2.3.2"
     },
     "devDependencies": {
@@ -98,7 +97,7 @@
     },
     "jupyterlab": {
         "extension": true,
-        "outputDir": "jupyterlab_apod/labextension"
+        "outputDir": "jupyterlab_databrix_homepage/labextension"
     },
     "eslintIgnore": [
         "node_modules",
