@@ -44,7 +44,7 @@ class databrixWidget extends Widget {
 
       <div class="contact">
               <h2>Kontakt</h2>
-              <p>Bei Fragen kontaktieren Sie bitte uns an admin@databrix.org!</p>
+              <p>Bei Fragen kontaktieren Sie uns bitte über admin@databrix.org</p>
       </div>
 
         `;
